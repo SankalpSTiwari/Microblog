@@ -16,3 +16,5 @@ Uses SQL Alchemy for database interactions and can work with any database.
 
 Migrate Database:
 Built with Flask Migrate to aid in database migrations, a database migration can be done with one simple command flask db upgrade.
+
+A huge thanks to Miguel Grinberg for writing a great tutorial on Flask.
